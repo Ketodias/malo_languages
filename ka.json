@@ -471,6 +471,8 @@
     }
   },
   "profile": {
+    "logout": "გამოსვლა",
+    "profile":"პროფილი",
     "personalInfo": {
       "title": "პირადი ინფორმაცია",
       "contactInfo": {
